@@ -1,0 +1,8 @@
+langgraph>=0.0.50
+langchain>=0.1.17
+langchain-openai>=0.1.7
+langchain-community>=0.0.34
+mem0>=0.0.7
+
+# Tooling
+requests>=2.31.0
